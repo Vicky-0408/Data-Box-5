@@ -1,2 +1,2 @@
-# Data-Box-5
+# DataBox5
 Small Tools for Data
